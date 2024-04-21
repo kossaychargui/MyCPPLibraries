@@ -25,7 +25,7 @@ To use these classes in your C++ projects, follow these steps:
 1. Clone the repository:
 
    sh
-   git clone https://github.com/your-username/cpp-utility-classes.git
+   git clone https://github.com/kossaychargui/MyCPPLibraries
 
 2. Include the necessary header files in your c++ code:
 example:
